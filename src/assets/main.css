@@ -1,0 +1,12 @@
+/* ✅ โหลดฟอนต์จาก Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+/* ✅ โหลด Tailwind ก่อนสุด */
+@import "tailwindcss";
+
+/* ✅ โหลด DaisyUI เป็น plugin */
+@plugin "daisyui";
+
+/* ✅ กำหนดฟอนต์ทั้งเว็บให้ใช้ Poppins */
+@theme {
+  --font-sans: "Poppins", sans-serif;
+}
