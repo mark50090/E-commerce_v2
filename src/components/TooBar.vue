@@ -1,5 +1,5 @@
 <template>
-  <header class="shadow-sm relative z-50">
+  <header class="bg-white shadow-sm sticky top-0 z-50  ">
     <div
       class="navbar bg-base-100 max-w-screen-2xl mx-auto px-4 sm:px-6 lg:px-8"
     >
@@ -36,12 +36,12 @@
         <a href="#" class="nav-link">Home</a>
         <a href="#" class="nav-link">Shop</a>
         <a href="#" class="nav-link">Collection</a>
-        <a href="#" class="nav-link">About us</a>
+        <!-- <a href="#" class="nav-link">About us</a> -->
         <a href="#" class="nav-link">Contact</a>
       </div>
 
       <!-- Right Section -->
-      <div class="flex-none space-x-2">
+      <div class="flex-none space-x-2 pl-4">
         <!-- Search -->
         <button @click="toggleSearch" class="btn btn-ghost btn-circle">
           <svg
@@ -162,7 +162,7 @@
           <li><a href="#">Home</a></li>
           <li><a href="#">Shop</a></li>
           <li><a href="#">Collection</a></li>
-          <li><a href="#">About us</a></li>
+          <!-- <li><a href="#">About us</a></li> -->
           <li><a href="#">Contact</a></li>
         </ul>
       </aside>
