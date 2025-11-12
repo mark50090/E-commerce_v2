@@ -59,9 +59,9 @@
 import { ref, onMounted, onBeforeUnmount } from "vue"
 
 const images = ref([
-  "https://images.pexels.com/photos/9775894/pexels-photo-9775894.jpeg",
-  "https://images.pexels.com/photos/9775885/pexels-photo-9775885.jpeg",
-  "https://images.pexels.com/photos/9775860/pexels-photo-9775860.jpeg",
+  "/images/pexels-photo-9775894.jpeg",
+  "images/pexels-photo-9775885.jpeg",
+  "/images/pexels-photo-9775860.jpeg",
 ])
 
 const currentIndex = ref(0)

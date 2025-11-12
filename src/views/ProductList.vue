@@ -2,7 +2,7 @@
   <div class="max-w-7xl mx-auto px-4 py-10">
     <!-- Header -->
     <div class="flex justify-between items-center mb-8 relative">
-      <!-- <div class="flex items-center space-x-4">
+      <div class="flex items-center space-x-4">
         <button class="flex items-center space-x-1 text-gray-700 hover:text-black transition">
           <i class="fa-solid fa-filter"></i>
           <span>Filter</span>
@@ -11,10 +11,10 @@
           <i class="fa-solid fa-magnifying-glass"></i>
           <span>Search</span>
         </button>
-      </div> -->
+      </div>
 
       <h2 class="text-3xl font-bold tracking-wide absolute left-1/2 -translate-x-1/2">
-        COLLECTION.
+        เสื้อยืดโอเวอร์ไซต์ - OVERSIZE UNISEX.
       </h2>
     </div>
 

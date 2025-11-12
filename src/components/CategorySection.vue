@@ -16,7 +16,7 @@
       <!-- Right Image -->
       <div class="flex justify-center">
         <img
-          src="https://images.pexels.com/photos/11671964/pexels-photo-11671964.jpeg"
+          src="/images/pexels-photo-11671964.jpeg"
           alt="Screen T-Shirt"
           class="w-full max-w-[480px] h-auto object-contain mx-auto"
         />
@@ -30,7 +30,7 @@
       <!-- Left Image -->
       <div class="flex justify-center order-1 md:order-none">
         <img
-          src="https://images.pexels.com/photos/9594671/pexels-photo-9594671.jpeg"
+          src="/images/pexels-photo-9594671.jpeg"
           alt="Oversize T-Shirt"
           class="w-full max-w-[480px] h-auto object-contain mx-auto"
         />
@@ -52,7 +52,7 @@
       <!-- Pants Jeans -->
       <div class="flex flex-col items-center">
         <img
-          src="https://images.pexels.com/photos/1082528/pexels-photo-1082528.jpeg"
+          src="/images/pexels-photo-1082528.jpeg"
           alt="Pants Jeans"
           class="w-full max-w-[480px] h-auto object-contain"
         />
@@ -63,7 +63,7 @@
       <!-- Pants Shorts -->
       <div class="flex flex-col items-center">
         <img
-          src="https://images.pexels.com/photos/16390571/pexels-photo-16390571.jpeg"
+          src="/images/pexels-photo-16390571.jpeg"
           alt="Pants Shorts"
           class="w-full max-w-[480px] h-auto object-contain"
         />

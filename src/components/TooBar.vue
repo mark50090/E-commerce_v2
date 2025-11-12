@@ -33,10 +33,9 @@
       <div
         class="hidden lg:flex lg:flex-1 lg:items-center lg:justify-end lg:space-x-10"
       >
-        <a href="#" class="nav-link">Home</a>
-        <a href="#" class="nav-link">Shop</a>
+        <RouterLink to="/" class="nav-link">Home</RouterLink>
+        <RouterLink to="/product" class="nav-link">Shop</RouterLink>
         <a href="#" class="nav-link">Collection</a>
-        <!-- <a href="#" class="nav-link">About us</a> -->
         <a href="#" class="nav-link">Contact</a>
       </div>
 
